@@ -8,7 +8,7 @@ A simple NodeJS package for verifying PayPal IPN messages.
 
 ## Installation
 ```sh
-$ npm install paypal-ipn
+$ npm install paypal-ipn-checker
 ```
 
 ## Usage
